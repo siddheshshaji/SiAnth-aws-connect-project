@@ -31,6 +31,11 @@ After the caller enters an option, we capture two attributes,
 	4.3 Any other number invokes a "Sorry that's not a valid option, try again." prompt
   
 
-AWS Flowchart for Quicksight Analytics
+AWS Flowchart for Quicksight Analytics:
 
 ![image](https://user-images.githubusercontent.com/62932933/219936837-e79e24b2-6870-4dbf-bc79-9c9a3055ee4b.png)
+
+Quicksight Report:
+
+![image](https://user-images.githubusercontent.com/62932933/219972278-7ea0108f-cd00-4cc7-96da-18a1c77c15bb.png)
+
