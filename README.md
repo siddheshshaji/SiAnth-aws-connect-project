@@ -4,7 +4,7 @@ Automated call center using AWS Connect, Glue, Lambda, Athena, S3 and Quicksight
 
 The Flow:
 
-1. When a cusomer calls the customer care number, a prompt is played that says:
+1. When a customer calls the customer care number, a prompt is played that says:
 
 "Thanks for calling Connect helpline.
 Press 1 to connect with the Human Resources Department.
