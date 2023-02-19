@@ -4,8 +4,6 @@ Automated call center using AWS Connect, Glue, Lambda, Athena, S3 and Quicksight
 
 The Flow:
 
-1. There are 4 members in the hardcoded database with attributes: name, phone number, member id number, dob, address, zip and possible intent
-
 1. When a cusomer calls the customer care number, a prompt is played that says:
 
 "Thanks for calling {i don't recall the name of your firm, please let me know} helpline.
