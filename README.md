@@ -6,7 +6,7 @@ The Flow:
 
 1. When a cusomer calls the customer care number, a prompt is played that says:
 
-"Thanks for calling {i don't recall the name of your firm, please let me know} helpline.
+"Thanks for calling Connect helpline.
 Press 1 to connect with the Human Resources Department.
 Press 2 to connect with the Information Technology Department.
 Press 3 to connect with the Marketing Department.
