@@ -1,0 +1,18 @@
+{
+  "fileLocations": [
+    {
+      "URIs": [
+        "https://s3://gluetransformationoutput/transformed_data.csv"
+      ]
+    },
+    {
+      "URIPrefixes": [
+        "https://gluetransformationoutput.s3.us-west-2.amazonaws.com/"
+      ]
+    }
+  ],
+  "globalUploadSettings": {
+    "format": "CSV",
+    "delimiter": ","
+  }
+}
