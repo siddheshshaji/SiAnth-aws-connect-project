@@ -18,4 +18,3 @@ AWS Flowchart for Quicksight Analytics:
 Quicksight Report:
 
 ![image](https://user-images.githubusercontent.com/62932933/219972278-7ea0108f-cd00-4cc7-96da-18a1c77c15bb.png)
-
