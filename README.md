@@ -29,5 +29,5 @@ Using Contact Lens for sentiment analysis:
  
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/62932933/221545650-fcc8b46c-29ab-4ab5-97d8-76d116728775.gif)
 
-
+- Lastly go to the Analytics and Optimization tab to access the call recordings and their summary
 
