@@ -18,3 +18,16 @@ AWS Flowchart for Quicksight Analytics:
 Quicksight Report:
 
 ![image](https://user-images.githubusercontent.com/62932933/219972278-7ea0108f-cd00-4cc7-96da-18a1c77c15bb.png)
+
+Using Contact Lens for sentiment analysis:
+
+- Make sure that the contact lens option is enabled in the analytics panel within your connect instance
+
+![image](https://user-images.githubusercontent.com/62932933/221545982-7cd1db1a-40e6-4339-8e64-fbf0f7c3c0da.png)
+
+- Then go to your contact flow and add the "Set recording and analytics behavior" block at the beginning of your flow, with all the settings as shown in the following gif:
+ 
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/62932933/221545650-fcc8b46c-29ab-4ab5-97d8-76d116728775.gif)
+
+
+
